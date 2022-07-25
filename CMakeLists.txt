@@ -3,4 +3,4 @@ project(coding)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(coding cpp/main.cpp)
+add_executable(coding cpp/排序/demo.cpp)
